@@ -5,9 +5,6 @@
 
 > 진행 중에 사용될 깃허브 프로필
 
-## 개발자 프로필
-> [Soomin's Portfolio](https://Chisoomin.github.io/portfolio.html)
-
 ## 보안관련 목표
 > 모의해킹이나 취약점 분석 대회 참가
 
